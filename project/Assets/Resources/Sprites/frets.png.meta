@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: f3ac864aa05c83745897c7de011e6b9e
+timeCreated: 1464883706
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frets_0
+    21300002: frets_1
+    21300004: frets_2
+    21300006: frets_3
+    21300008: frets_4
+    21300010: frets_5
+    21300012: frets_6
+    21300014: frets_7
+    21300016: frets_8
+    21300018: frets_9
+    21300020: frets_10
+    21300022: frets_11
+    21300024: frets_12
+    21300026: frets_13
+    21300028: frets_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163.33334
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 36.333344}
+        - {x: -19, y: 36.333344}
+        - {x: -64, y: 9.3333435}
+        - {x: -64, y: -38.666656}
+        - {x: 69, y: -38.666656}
+        - {x: 69, y: 10.3333435}
+        - {x: 66, y: 14.3333435}
+      tessellationDetail: 0
+    - name: frets_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163.33334
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 13.3333435}
+        - {x: 26, y: 36.333344}
+        - {x: -16, y: 36.333344}
+        - {x: -59, y: 22.333344}
+        - {x: -68, y: 7.3333435}
+        - {x: -68, y: -20.666656}
+        - {x: -35, y: -38.666656}
+        - {x: 38, y: -38.666656}
+        - {x: 57, y: -25.666656}
+        - {x: 67, y: -19.666656}
+        - {x: 67, y: 1.3333435}
+      tessellationDetail: 0
+    - name: frets_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 163.33334
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 36.333344}
+        - {x: -68, y: 5.3333435}
+        - {x: -68, y: -20.666656}
+        - {x: -46, y: -38.666656}
+        - {x: 39, y: -38.666656}
+        - {x: 48, y: -36.666656}
+        - {x: 66, y: -17.666656}
+        - {x: 66, y: 6.3333435}
+        - {x: 14, y: 36.333344}
+      tessellationDetail: 0
+    - name: frets_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 163.33334
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 36.333344}
+        - {x: -66, y: 16.333344}
+        - {x: -67, y: 10.3333435}
+        - {x: -67, y: -40.666656}
+        - {x: 67, y: -40.666656}
+        - {x: 67, y: 9.3333435}
+        - {x: 25, y: 36.333344}
+      tessellationDetail: 0
+    - name: frets_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 163.33334
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 36.333344}
+        - {x: -68, y: 12.3333435}
+        - {x: -69, y: 8.3333435}
+        - {x: -69, y: -24.666656}
+        - {x: -44, y: -37.666656}
+        - {x: 28, y: -37.666656}
+        - {x: 57, y: -31.666656}
+        - {x: 64, y: -19.666656}
+        - {x: 64, y: 18.333344}
+        - {x: 7, y: 36.333344}
+      tessellationDetail: 0
+    - name: frets_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82.333336
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36.333336}
+        - {x: -64, y: 6.333336}
+        - {x: -64, y: -25.666664}
+        - {x: -60, y: -35.666664}
+        - {x: -36, y: -40.666664}
+        - {x: 36, y: -40.666664}
+        - {x: 69, y: -25.666664}
+        - {x: 69, y: 9.333336}
+        - {x: 12, y: 36.333336}
+      tessellationDetail: 0
+    - name: frets_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82.333336
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 36.333336}
+        - {x: -37, y: 36.333336}
+        - {x: -63, y: 15.333336}
+        - {x: -67, y: 2.3333359}
+        - {x: -67, y: -27.666664}
+        - {x: -41, y: -39.666664}
+        - {x: -27, y: -40.666664}
+        - {x: 28, y: -40.666664}
+        - {x: 62, y: -33.666664}
+        - {x: 67, y: -19.666664}
+        - {x: 67, y: 20.333336}
+      tessellationDetail: 0
+    - name: frets_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 82.333336
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 36.333336}
+        - {x: -68, y: 24.333336}
+        - {x: -68, y: -26.666664}
+        - {x: -54, y: -40.666664}
+        - {x: 66, y: -40.666664}
+        - {x: 66, y: 25.333336}
+        - {x: 49, y: 36.333336}
+      tessellationDetail: 0
+    - name: frets_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 82.333336
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 36.333336}
+        - {x: -67, y: -33.666664}
+        - {x: -65, y: -40.666664}
+        - {x: 67, y: -40.666664}
+        - {x: 67, y: 35.333336}
+        - {x: 58, y: 36.333336}
+      tessellationDetail: 0
+    - name: frets_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 82.333336
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -26.666664}
+        - {x: -45, y: -40.666664}
+        - {x: 40, y: -40.666664}
+        - {x: 64, y: -35.666664}
+        - {x: 64, y: 13.333336}
+        - {x: 63, y: 17.333336}
+        - {x: 7, y: 36.333336}
+        - {x: -19, y: 36.333336}
+        - {x: -69, y: 8.333336}
+      tessellationDetail: 0
+    - name: frets_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333359
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 35.333336}
+        - {x: -66, y: 31.333336}
+        - {x: -66, y: -24.666664}
+        - {x: -61, y: -39.666664}
+        - {x: -56, y: -40.666664}
+        - {x: 47, y: -40.666664}
+        - {x: 69, y: -27.666664}
+        - {x: 69, y: 15.333336}
+        - {x: 43, y: 35.333336}
+      tessellationDetail: 0
+    - name: frets_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1.3333359
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 34.333336}
+        - {x: -52, y: 34.333336}
+        - {x: -62, y: 21.333336}
+        - {x: -66, y: 7.333336}
+        - {x: -66, y: -21.666664}
+        - {x: -49, y: -40.666664}
+        - {x: 38, y: -40.666664}
+        - {x: 67, y: -37.666664}
+        - {x: 69, y: -29.666664}
+        - {x: 69, y: 24.333336}
+        - {x: 67, y: 30.333336}
+      - - {x: 3, y: 41.333336}
+        - {x: 4, y: 38.333336}
+        - {x: 7, y: 38.333336}
+        - {x: 9, y: 40.333336}
+        - {x: 9, y: 41.333336}
+      tessellationDetail: 0
+    - name: frets_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1.3333359
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 35.333336}
+        - {x: -47, y: 35.333336}
+        - {x: -67, y: 20.333336}
+        - {x: -67, y: -40.666664}
+        - {x: 67, y: -40.666664}
+        - {x: 67, y: 21.333336}
+        - {x: 65, y: 32.333336}
+      - - {x: -13, y: 41.333336}
+        - {x: -12, y: 38.333336}
+        - {x: 9, y: 38.333336}
+        - {x: 11, y: 40.333336}
+        - {x: 11, y: 41.333336}
+      tessellationDetail: 0
+    - name: frets_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1.3333359
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 35.333336}
+        - {x: -53, y: 31.333336}
+        - {x: -68, y: 14.333336}
+        - {x: -68, y: -26.666664}
+        - {x: -67, y: -32.666664}
+        - {x: -32, y: -40.666664}
+        - {x: 46, y: -40.666664}
+        - {x: 66, y: -30.666664}
+        - {x: 66, y: 23.333336}
+        - {x: 51, y: 35.333336}
+      - - {x: 66, y: -11.666664}
+        - {x: 68, y: -13.666664}
+        - {x: 69, y: -13.666664}
+        - {x: 69, y: -2.6666641}
+        - {x: 66, y: -3.6666641}
+      tessellationDetail: 0
+    - name: frets_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1.3333359
+        width: 138
+        height: 81.666664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 38.333336}
+        - {x: -43, y: 31.333336}
+        - {x: -47, y: 28.333336}
+        - {x: -52, y: 23.333336}
+        - {x: -69, y: 5.333336}
+        - {x: -69, y: -21.666664}
+        - {x: -48, y: -40.666664}
+        - {x: 51, y: -40.666664}
+        - {x: 65, y: -37.666664}
+        - {x: 65, y: 27.333336}
+        - {x: 40, y: 38.333336}
+      - - {x: -17, y: 41.333336}
+        - {x: -16, y: 38.333336}
+        - {x: 19, y: 38.333336}
+        - {x: 21, y: 40.333336}
+        - {x: 21, y: 41.333336}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

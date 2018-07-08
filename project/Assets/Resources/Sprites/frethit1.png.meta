@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 44c14345431356c4190c431cf97405f5
+timeCreated: 1465025237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frethit1_0
+    21300002: frethit1_1
+    21300004: frethit1_2
+    21300006: frethit1_3
+    21300008: frethit1_4
+    21300010: frethit1_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frethit1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 36.5}
+        - {x: -37, y: 36.5}
+        - {x: -63, y: 15.5}
+        - {x: -67, y: 2.5}
+        - {x: -67, y: -27.5}
+        - {x: -41, y: -39.5}
+        - {x: -27, y: -40.5}
+        - {x: 28, y: -40.5}
+        - {x: 62, y: -33.5}
+        - {x: 67, y: -19.5}
+        - {x: 67, y: 20.5}
+      tessellationDetail: 0
+    - name: frethit1_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 31.5}
+        - {x: 37, y: 31.5}
+        - {x: 35, y: 29.5}
+        - {x: 36, y: 26.5}
+        - {x: -12, y: 27.5}
+        - {x: -28, y: 31.5}
+        - {x: -66, y: 31.5}
+        - {x: -66, y: -40.5}
+        - {x: 54, y: -40.5}
+        - {x: 69, y: -26.5}
+        - {x: 69, y: 9.5}
+        - {x: 62, y: 25.5}
+      - - {x: -36, y: 33.5}
+        - {x: -41, y: 30.5}
+        - {x: -41, y: 29.5}
+        - {x: -40, y: 27.5}
+        - {x: -30, y: 27.5}
+        - {x: -29, y: 30.5}
+        - {x: -30, y: 33.5}
+      tessellationDetail: 0
+    - name: frethit1_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 34.5}
+        - {x: -66, y: 11.5}
+        - {x: -66, y: -19.5}
+        - {x: -41, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 69, y: -26.5}
+        - {x: 69, y: 34.5}
+      tessellationDetail: 0
+    - name: frethit1_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 26.5}
+        - {x: 42, y: 25.5}
+        - {x: 32, y: 27.5}
+        - {x: 27, y: 29.5}
+        - {x: -26, y: 30.5}
+        - {x: -37, y: 26.5}
+        - {x: -46, y: 23.5}
+        - {x: -53, y: 20.5}
+        - {x: -41, y: 26.5}
+        - {x: -39, y: 30.5}
+        - {x: -42, y: 31.5}
+        - {x: -63, y: 31.5}
+        - {x: -66, y: 30.5}
+        - {x: -66, y: -27.5}
+        - {x: -60, y: -40.5}
+        - {x: 40, y: -40.5}
+        - {x: 69, y: -25.5}
+        - {x: 69, y: 13.5}
+        - {x: 58, y: 31.5}
+        - {x: 35, y: 31.5}
+        - {x: 35, y: 29.5}
+      - - {x: -36, y: 33.5}
+        - {x: -41, y: 30.5}
+        - {x: -41, y: 29.5}
+        - {x: -40, y: 27.5}
+        - {x: -30, y: 27.5}
+        - {x: -29, y: 30.5}
+        - {x: -30, y: 33.5}
+      tessellationDetail: 0
+    - name: frethit1_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 30.5}
+        - {x: 35, y: 28.5}
+        - {x: 36, y: 25.5}
+        - {x: -34, y: 30.5}
+        - {x: -46, y: 30.5}
+        - {x: -61, y: 26.5}
+        - {x: -66, y: 8.5}
+        - {x: -66, y: -22.5}
+        - {x: -45, y: -40.5}
+        - {x: 57, y: -40.5}
+        - {x: 69, y: -27.5}
+        - {x: 69, y: 2.5}
+        - {x: 55, y: 30.5}
+      - - {x: -36, y: 32.5}
+        - {x: -41, y: 29.5}
+        - {x: -41, y: 28.5}
+        - {x: -40, y: 26.5}
+        - {x: -30, y: 26.5}
+        - {x: -29, y: 29.5}
+        - {x: -30, y: 32.5}
+      - - {x: 6, y: 32.5}
+        - {x: 7, y: 29.5}
+        - {x: 11, y: 29.5}
+        - {x: 13, y: 31.5}
+        - {x: 12, y: 34.5}
+        - {x: 8, y: 34.5}
+      tessellationDetail: 0
+    - name: frethit1_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 35.5}
+        - {x: -55, y: 17.5}
+        - {x: -68, y: -0.5}
+        - {x: -68, y: -20.5}
+        - {x: -47, y: -33.5}
+        - {x: -33, y: -39.5}
+        - {x: 41, y: -39.5}
+        - {x: 67, y: -26.5}
+        - {x: 67, y: 23.5}
+        - {x: 26, y: 35.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
